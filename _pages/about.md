@@ -19,10 +19,3 @@ Research keywords:
 * Threat modeling
 * Lightweight cryptography
 * Hardware security
-
-```
-EAT.
-SLEEP.
-CODE.
-REPEAT.
-```
