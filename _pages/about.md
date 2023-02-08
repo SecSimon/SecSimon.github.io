@@ -21,3 +21,5 @@ Research keywords:
 * Hardware security
 
 Check out my threat modeling tool for IoT devices! [Go to TTModeler](https://www.simon-liebl.de/TTM)
+
+Open to work -- reach out!
