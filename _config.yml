@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Simon Liebl"
-title_separator          : "-"
-name                     : &name "Simon Liebl"
+title_separator          : "–"
+name                     : &name "Dr. Simon Liebl"
 description              : &description "personal description"
 url                      : https://SecSimon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simon Liebl"
+  name             : "Dr. Simon Liebl"
   avatar           : "profile.png"
-  bio              : "PhD Student at Abertay University, Division of Cyber Security, Dundee, Scotland and Research Assistant at OTH Amberg-Weiden, Germany"
+  bio              : "Cybersecurity Expert, Software Developer"
   location         : "Amberg, Germany"
   employer         :
   pubmed           : 
@@ -93,6 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
+  emgarde          : "https://emgarde.de"
   flickr           :
   facebook         :
   foursquare       :
@@ -111,6 +112,7 @@ author:
   steam            :
   tumblr           :
   ttmodeler        : "https://www.simon-liebl.de/TTM"
+  ttmodeler-pro    : "https://emgarde.de/ttmodeler-pro"
   twitter          : 
   vine             :
   weibo            :

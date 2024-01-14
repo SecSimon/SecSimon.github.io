@@ -121,8 +121,14 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
+      {% if author.emgarde %}
+        <li><a href="{{ author.emgarde }}"><img style="width: 13px; height: 13px;" src="images/emgarde.png"> emgarde</a></li>
+      {% endif %}
       {% if author.ttmodeler %}
         <li><a href="{{ author.ttmodeler }}"><img style="width: 13px; height: 13px;" src="https://raw.githubusercontent.com/SecSimon/TTM/main/src/assets/icons/favicon.192x192.png"> TTModeler</a></li>
+      {% endif %}
+      {% if author.ttmodeler-pro %}
+        <li><a href="{{ author.ttmodeler-pro }}"><img style="width: 13px; height: 13px;" src="https://raw.githubusercontent.com/SecSimon/TTM/main/src/assets/icons/favicon.192x192.png"> TTModeler Pro</a></li>
       {% endif %}
     </ul>
   </div>

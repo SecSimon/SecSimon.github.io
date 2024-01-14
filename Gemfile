@@ -26,4 +26,4 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
-gem "jekyll", "~> 3.9"
+gem "jekyll", "3.9.0"
